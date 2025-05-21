@@ -3,4 +3,7 @@ The following is the list of packages installed in the requirements.txt.
 - ipython
 - pynvim
 - matplotlib
+- pandas
+- seaborn
+- scikit-learn
 
